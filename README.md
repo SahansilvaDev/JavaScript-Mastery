@@ -2,7 +2,7 @@
 JavaScript Mastery helps to inspire developers to take their development skills to the next level and build production-ready apps
 
 <hr>
-###Basics
+<h3>Basics</h3>
 01 Learn js<br>
 02 Data Types<br>
 03 arrays and objects<br>
@@ -15,5 +15,5 @@ JavaScript Mastery helps to inspire developers to take their development skills 
 10_Selectors<br>
 11_Events<br>
 
+<h3>Advanced</h3>
 
-###Advance

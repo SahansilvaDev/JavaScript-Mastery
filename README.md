@@ -3,17 +3,17 @@ JavaScript Mastery helps to inspire developers to take their development skills 
 
 <hr>
 ###Basics
-01 Learn js
-02 Data Types
-03 arrays and objects
-04 operators
-05 If Else Statement
-06 Switch statement
-07 For Loop
-08_While Loop
-09_FunctionsInJs
-10_Selectors
-11_Events
+01 Learn js<br>
+02 Data Types<br>
+03 arrays and objects<br>
+04 operators<br>
+05 If Else Statement<br>
+06 Switch statement<br>
+07 For Loop<br>
+08_While Loop<br>
+09_FunctionsInJs<br>
+10_Selectors<br>
+11_Events<br>
 
 
 ###Advance
